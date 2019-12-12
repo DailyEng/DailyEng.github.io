@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 每日一句英文 DailyEng</title>
+    <link>https://DailyEng.github.io/tags/</link>
+    <description>Recent content in Tags on 每日一句英文 DailyEng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2018 每日一句英文 DailyEng </copyright>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://DailyEng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>每日一句</title>
+      <link>https://DailyEng.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://DailyEng.github.io/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
